@@ -1,0 +1,1 @@
+# gql-code-generator-hooks-bug-repro
